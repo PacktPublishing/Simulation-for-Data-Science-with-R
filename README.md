@@ -106,6 +106,7 @@
 
 
 
-##Related Apache Products:
-* [Apache Mesos Essentials](https://www.packtpub.com/big-data-and-business-intelligence/apache-mesos-essentials?utm_source=repository&utm_medium=github&utm_campaign=9781783288762)
-* [Apache ZooKeeper Essentials](https://www.packtpub.com/big-data-and-business-intelligence/apache-zookeeper-essentials?utm_source=repository&utm_medium=github&utm_campaign=9781783288762)
+##Related R Products:
+* [R for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/r-data-science?utm_source=github&utm_medium=repository&utm_campaign=9781784390860)
+* [Learning R for Geospatial Analysis](https://www.packtpub.com/big-data-and-business-intelligence/learning-r-geospatial-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781783984367)
+* [R Graphs Cookbook Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/r-graph-cookbook-%E2%80%93-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781783988785)
