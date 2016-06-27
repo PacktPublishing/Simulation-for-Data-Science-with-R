@@ -1,7 +1,5 @@
 # Simulation for Data Science with R
 
-##Instructions and Navigation
-
 ##Chapter 2: Required packages
 * boot_1.3-17
 * colorspace_1.2-6
