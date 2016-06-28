@@ -1,6 +1,8 @@
 # Simulation for Data Science with R
 
-##Chapter 2: Required packages
+## Code Testing Specifications
+
+**Chapter 2: Required packages**
 * boot_1.3-17
 * colorspace_1.2-6
 * data.table_1.9.6
@@ -21,26 +23,26 @@
 * vcd_1.4-1
 * VIM_4.4.1
 
-##Chapter 3: Required packages
+**Chapter 3: Required packages**
 * knitr_1.12.3
 * Matrix_1.2-6
 
-##Chapter 4: Required packages
+**Chapter 4: Required packages**
 * coda_0.18-1
 * ggplot2_2.1.0
 * knitr_1.12.3
 * MASS_7.3-43
 
-##Chapter 5: Required packages
+**Chapter 5: Required packages**
 * mvtnorm_1.0-5
 * nloptr_1.0.4
 * RCEIM_0.2
 
-##Chapter 6: Required packages
+**Chapter 6: Required packages**
 * car_2.1-2
 
 
-##Chapter 7: Required packages
+**Chapter 7: Required packages**
 * boot_1.3-17
 * bootstrap_2015.2
 * cvTools_0.3.2
@@ -50,7 +52,7 @@
 * vcd_1.4-1
 
 
-##Chapter 8: Required packages
+**Chapter 8: Required packages**
 * boot_1.3-17
 * colorspace_1.2-6
 * data.table_1.9.6
@@ -63,7 +65,7 @@
 * VIM_4.4.1
 
 
-##Chapter 9: Required packages
+**Chapter 9: Required packages**
 * colorspace_1.2-6
 * data.table_1.9.6
 * ggplot2_2.1.0
@@ -74,7 +76,7 @@
 * VIM_4.4.1
 
 
-##Chapter 10: Required packages 
+**Chapter 10: Required packages** 
 * boot_1.3-17
 * colorspace_1.2-6
 * data.table_1.9.6
@@ -97,7 +99,7 @@
 * VIM_4.4.1
 
 
-##Chapter 11: Required packages
+**Chapter 11: Required packages**
 * lattice_0.20-33
 * Rcpp_0.12.4
 * simFrame_0.5.3
