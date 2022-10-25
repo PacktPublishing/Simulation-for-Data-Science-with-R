@@ -115,3 +115,7 @@
 * [R for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/r-data-science?utm_source=github&utm_medium=repository&utm_campaign=9781784390860)
 * [Learning R for Geospatial Analysis](https://www.packtpub.com/big-data-and-business-intelligence/learning-r-geospatial-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781783984367)
 * [R Graphs Cookbook Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/r-graph-cookbook-%E2%80%93-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781783988785)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785881169">https://packt.link/free-ebook/9781785881169 </a> </p>
